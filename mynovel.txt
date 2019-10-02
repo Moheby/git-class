@@ -1,3 +1,0 @@
-Author: Freshta Moheby
-age: 25
-hometown: Kabul
